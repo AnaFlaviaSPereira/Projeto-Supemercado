@@ -76,4 +76,4 @@ Resposta: Integração com emissão de nota/ cupom fiscal eletrônico (número d
 
 **Modelo Lógico**
 
-![Image](https://github.com/user-attachments/assets/45e92e52-2550-4283-a8e7-cbe49d26676d)
+<img width="917" height="486" alt="trabalho_modelo_logico" src="https://github.com/user-attachments/assets/747a913d-9d9d-425e-8daa-468623cc5b8c" />
