@@ -32,7 +32,7 @@ criadas;
 
 1. Quais informações dos usuários devem ser armazenadas?
 
-Resposta: precisamos armazenar:nome, e-mail, telefone, endereço e cpf.
+Resposta: Precisamos armazenar:nome, e-mail, telefone, endereço e cpf.
 
 2. Queremos programa de fidelidade/acúmulo de pontos?
 
